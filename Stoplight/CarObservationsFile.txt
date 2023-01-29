@@ -1,0 +1,15 @@
+East,4
+West,24
+South,20
+East,8
+South,52
+West,34
+North,5
+North,151
+East,102
+South,120
+East,201
+West,130
+East,302
+South,156
+North,323
