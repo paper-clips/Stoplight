@@ -5,7 +5,7 @@ Description: The lights of the four different stoplights change to green, yellow
 _Make sure to put the "CarObservationsFile.txt" file in the Debug folder (".../Spotlight/bin/Debug")_
 
 Interface: <br>
-![Image of command interface and a stoplight visualization.](https://github.com/paper-clips/Stoplight/blob/main/Application%20Images/i1.png?raw=true)
+![Image of command interface and a stoplight visualization.](https://github.com/paper-clips/Stoplight/blob/daf7d5085055b362a0157f574a9db63ef3a44c59/Application%20Images/i1.png?raw=true)
 
-End of illustration: <br>
-![Image of command interface and the end of the stoplight visualization.](https://github.com/paper-clips/Stoplight/blob/main/Application%20Images/i2.png?raw=true)
+End of demonstration: <br>
+![Image of command interface and the end of the stoplight visualization.](https://github.com/paper-clips/Stoplight/blob/daf7d5085055b362a0157f574a9db63ef3a44c59/Application%20Images/i2.png?raw=true)
